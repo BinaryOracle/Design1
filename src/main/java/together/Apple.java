@@ -5,5 +5,6 @@ public class Apple extends  MyElement{
     public void eat() {
         System.out.println("苹果");
         System.out.println("hhhhhhh");
+        System.out.println("大香蕉");
     }
 }
